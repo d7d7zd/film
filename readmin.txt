@@ -1,0 +1,6 @@
+$0.0.1
+	nothing
+$0.0.2
+	数原型的建立
+	1 admin  dname dpassword
+	2 flim dname daoyan actor class country lang dtime start info play time
